@@ -1,0 +1,14 @@
+{
+  "name": "pd-pac-conference-fake-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/json-server --watch ./data/db.json --port 3004 --routes ./data/routes.json"
+  },
+  "author": "Martin Kruse",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}

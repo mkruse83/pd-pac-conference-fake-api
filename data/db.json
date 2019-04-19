@@ -1,0 +1,58 @@
+{
+    "conferences": [
+        {
+            "id": 2020,
+            "year": 2020,
+            "conferences": [
+                {
+                    "id": "1",
+                    "name": "Javaland",
+                    "from": "2020-03-23T09:00:00+00:00",
+                    "to": "2020-03-25T09:00:00+00:00",
+                    "topics": ["Java", "Web"]
+                },
+                {
+                    "id": "2",
+                    "name": "JVM Con",
+                    "from": "2020-05-23T09:00:00+00:00",
+                    "to": "2020-05-25T09:00:00+00:00",
+                    "topics": ["Java", "JVM"]
+                },
+                {
+                    "id": "3",
+                    "name": "Generic Java Conference",
+                    "from": "2020-08-23T09:00:00+00:00",
+                    "to": "2020-08-25T09:00:00+00:00",
+                    "topics": ["Java", "IoT"]
+                }
+            ]
+        },
+        {
+            "id": 2019,
+            "year": 2019,
+            "conferences": [
+                {
+                    "id": "1",
+                    "name": "Javascriptland",
+                    "from": "2019-03-23T09:00:00+00:00",
+                    "to": "2019-03-25T09:00:00+00:00",
+                    "topics": ["Java", "Web"]
+                },
+                {
+                    "id": "2",
+                    "name": "C# Summit",
+                    "from": "2019-05-23T09:00:00+00:00",
+                    "to": "2019-05-25T09:00:00+00:00",
+                    "topics": ["Java", "JVM"]
+                },
+                {
+                    "id": "3",
+                    "name": "Generic Dev Conference",
+                    "from": "2019-08-23T09:00:00+00:00",
+                    "to": "2019-08-25T09:00:00+00:00",
+                    "topics": ["Java", "IoT"]
+                }
+            ]
+        }
+    ]
+}
